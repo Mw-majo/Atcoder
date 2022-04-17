@@ -3,6 +3,6 @@
 ## 言語
 - Kotlin
 
-## joinedContest
+## Atcoder.jp
 - 参加したコンテストの解答
-- WAの可能性あり
+- togatoga/procon-archive　さんのツールを用いて、提出コードを取得
